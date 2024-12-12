@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1076102815903",
+    "firebase_url": "https://anap-6b6f4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anap-6b6f4",
+    "storage_bucket": "anap-6b6f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076102815903:android:44d0480c82acab7b69c2aa",
+        "android_client_info": {
+          "package_name": "com.example.anap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0G8DE7MAIYe083eNLybUUunFJ2OpxovA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
